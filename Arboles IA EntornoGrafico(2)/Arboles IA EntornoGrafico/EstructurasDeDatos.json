@@ -1,0 +1,410 @@
+{
+  "valor": "¿Qué categoría o estilo general de música deseas explorar?",
+  "hijos": [
+    {
+      "valor": "ELECTRÓNICA",
+      "hijos": [
+        {
+          "valor": "House",
+          "hijos": [
+            {
+              "valor": "Chicago House",
+              "artistas": ["Frankie Knuckles", "Marshall Jefferson", "Larry Heard", "Steve Silk Hurley", "Ron Hardy", "Derrick Carter", "Felix Da Housecat", "Cajmere"]
+            },
+            {
+              "valor": "Deep House",
+              "artistas": ["Kerri Chandler", "Maya Jane Coles", "Disclosure", "Ben Watt", "Mark Farina", "Theo Parrish", "Moodymann", "St Germain"]
+            },
+            {
+              "valor": "Tech House",
+              "artistas": ["Fisher", "Chris Lake", "Green Velvet", "Michael Bibi", "Patrick Topping", "Jamie Jones", "Seth Troxler", "Marco Carola"]
+            },
+            {
+              "valor": "Progressive House",
+              "artistas": ["Eric Prydz", "Deadmau5", "Sasha", "John Digweed", "Paul Kalkbrenner", "Guy J", "Hernán Cattáneo", "Nick Warren"]
+            }
+          ]
+        },
+        {
+          "valor": "Techno",
+          "hijos": [
+            {
+              "valor": "Detroit Techno",
+              "artistas": ["Derrick May", "Juan Atkins", "Kevin Saunderson", "Jeff Mills", "Robert Hood", "Carl Craig", "The Belleville Three", "Kenny Larkin"]
+            },
+            {
+              "valor": "Acid Techno",
+              "artistas": ["Hardfloor", "Josh Wink", "Kink", "Luke Slater", "Emmanuel Top", "Dave Clarke", "Surgeon", "Richie Hawtin"]
+            },
+            {
+              "valor": "Minimal Techno",
+              "artistas": ["Richie Hawtin", "Boris Brejcha", "Ricardo Villalobos", "Luciano", "Marc Houle", "Magda", "Mathew Jonson", "Extrawelt"]
+            },
+            {
+              "valor": "Industrial Techno",
+              "artistas": ["Perc", "Paula Temple", "Blawan", "Dax J", "Rebekah", "Helena Hauff", "SNTS", "I Hate Models"]
+            }
+          ]
+        },
+        {
+          "valor": "Trance",
+          "hijos": [
+            {
+              "valor": "Uplifting Trance",
+              "artistas": ["Armin van Buuren", "Paul van Dyk", "Aly & Fila", "Ferry Corsten", "Tiësto (clásico)", "ATB", "John O'Callaghan", "Sean Tyas"]
+            },
+            {
+              "valor": "Psytrance",
+              "artistas": ["Astrix", "Vini Vici", "Infected Mushroom", "Ace Ventura", "Captain Hook", "Liquid Soul", "Shpongle", "Bliss"]
+            },
+            {
+              "valor": "Vocal Trance",
+              "artistas": ["Above & Beyond", "Dash Berlin", "Gareth Emery", "Markus Schulz", "Paul Oakenfold", "OceanLab", "Armin van Buuren"]
+            }
+          ]
+        },
+        {
+          "valor": "Bass / Dubstep",
+          "hijos": [
+            {
+              "valor": "Dubstep",
+              "artistas": ["Skrillex", "Excision", "Zeds Dead", "Subtronics", "Illenium", "Rusko", "Caspa", "Benga"]
+            },
+            {
+              "valor": "Drum and Bass",
+              "artistas": ["Chase & Status", "Pendulum", "Sub Focus", "Andy C", "Netsky", "Wilkinson", "Rudimental", "Camo & Krooked"]
+            },
+            {
+              "valor": "Trap (EDM)",
+              "artistas": ["RL Grime", "Baauer", "Flosstradamus", "Yellow Claw", "NGHTMRE", "TroyBoi", "San Holo", "Alison Wonderland"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "ROCK Y METAL",
+      "hijos": [
+        {
+          "valor": "Rock Alternativo / Indie",
+          "hijos": [
+            {
+              "valor": "Indie Rock",
+              "artistas": ["Arctic Monkeys", "The Strokes", "Franz Ferdinand", "The Killers", "Interpol", "Phoenix", "The Black Keys", "Arcade Fire"]
+            },
+            {
+              "valor": "Grunge",
+              "artistas": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains", "Stone Temple Pilots", "Temple of the Dog", "Mudhoney"]
+            },
+            {
+              "valor": "Post-Punk",
+              "artistas": ["Joy Division", "The Cure", "Fontaines D.C.", "IDLES", "Interpol", "Editors", "Bauhaus", "Siouxsie and the Banshees"]
+            },
+            {
+              "valor": "Britpop",
+              "artistas": ["Oasis", "Blur", "Pulp", "Suede", "The Verve", "Supergrass", "Elastica", "Manic Street Preachers"]
+            }
+          ]
+        },
+        {
+          "valor": "Hard Rock / Metal",
+          "hijos": [
+            {
+              "valor": "Heavy Metal",
+              "artistas": ["Iron Maiden", "Black Sabbath", "Judas Priest", "Dio", "Motörhead", "Saxon", "Accept", "Mercyful Fate"]
+            },
+            {
+              "valor": "Thrash Metal",
+              "artistas": ["Metallica", "Slayer", "Megadeth", "Anthrax", "Kreator", "Testament", "Exodus", "Overkill"]
+            },
+            {
+              "valor": "Death Metal",
+              "artistas": ["Death", "Cannibal Corpse", "Morbid Angel", "Gojira", "Opeth", "Arch Enemy", "Amon Amarth", "Obituary"]
+            },
+            {
+              "valor": "Classic Rock",
+              "artistas": ["Led Zeppelin", "AC/DC", "Queen", "The Rolling Stones", "The Who", "Pink Floyd", "Deep Purple", "Aerosmith"]
+            }
+          ]
+        },
+        {
+          "valor": "Rock Progresivo / Psicodélico",
+          "hijos": [
+            {
+              "valor": "Stoner Rock",
+              "artistas": ["Queens of the Stone Age", "Kyuss", "Sleep", "Fu Manchu", "Electric Wizard", "Monolord", "Orange Goblin", "Clutch"]
+            },
+            {
+              "valor": "Art Rock",
+              "artistas": ["Radiohead", "David Bowie", "King Crimson", "Genesis", "Yes", "Rush", "The Mars Volta", "Porcupine Tree"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "URBANO Y HIP-HOP",
+      "hijos": [
+        {
+          "valor": "Reggaeton y Trap Latino",
+          "hijos": [
+            {
+              "valor": "Reggaeton Old School",
+              "artistas": ["Daddy Yankee", "Don Omar", "Wisin & Yandel", "Tego Calderón", "Ivy Queen", "Héctor El Father", "Zion & Lennox", "Arcángel"]
+            },
+            {
+              "valor": "Reggaeton Moderno",
+              "artistas": ["Bad Bunny", "Karol G", "Rauw Alejandro", "J Balvin", "Feid", "Myke Towers", "Rosalía", "Chencho Corleone"]
+            },
+            {
+              "valor": "Trap Latino",
+              "artistas": ["Duki", "Anuel AA", "Eladio Carrión", "Paulo Londra", "Khea", "C. Tangana", "Jon Z", "Neo Pistea"]
+            }
+          ]
+        },
+        {
+          "valor": "Hip-Hop / Rap",
+          "hijos": [
+            {
+              "valor": "Boom Bap",
+              "artistas": ["Tupac", "The Notorious B.I.G.", "Nas", "Wu-Tang Clan", "Mobb Deep", "Rakim", "A Tribe Called Quest", "Common"]
+            },
+            {
+              "valor": "Trap Estadounidense",
+              "artistas": ["Travis Scott", "Drake", "Future", "Metro Boomin", "21 Savage", "Lil Baby", "Gunna", "Young Thug"]
+            },
+            {
+              "valor": "Conscious Hip-Hop",
+              "artistas": ["Kendrick Lamar", "J. Cole", "Lupe Fiasco", "Joey Bada$$", "Tyler, The Creator", "Vince Staples", "Mac Miller", "Earl Sweatshirt"]
+            },
+            {
+              "valor": "Drill",
+              "artistas": ["Pop Smoke", "Chief Keef", "Central Cee", "Fivio Foreign", "Digga D", "Sheff G", "King Von", "Headie One"]
+            }
+          ]
+        },
+        {
+          "valor": "R&B / Soul",
+          "hijos": [
+            {
+              "valor": "Contemporary R&B",
+              "artistas": ["SZA", "Frank Ocean", "The Weeknd", "Alicia Keys", "H.E.R.", "Khalid", "Kehlani", "Bryson Tiller"]
+            },
+            {
+              "valor": "Neo-Soul",
+              "artistas": ["Erykah Badu", "D'Angelo", "Lauryn Hill", "Jill Scott", "Maxwell", "Anderson .Paak", "Leon Bridges"]
+            },
+            {
+              "valor": "Funk",
+              "artistas": ["Stevie Wonder", "Earth, Wind & Fire", "James Brown", "Prince", "Kool & The Gang", "George Clinton", "Rick James"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "POP Y COMERCIAL",
+      "hijos": [
+        {
+          "valor": "Pop",
+          "hijos": [
+            {
+              "valor": "Synth-Pop",
+              "artistas": ["Dua Lipa", "The Weeknd", "Depeche Mode", "Pet Shop Boys", "Chvrches", "Robyn", "Lorde", "Carly Rae Jepsen"]
+            },
+            {
+              "valor": "Dance-Pop",
+              "artistas": ["Lady Gaga", "Katy Perry", "Britney Spears", "Ariana Grande", "Taylor Swift", "Kylie Minogue", "Rihanna", "Justin Timberlake"]
+            },
+            {
+              "valor": "Indie Pop",
+              "artistas": ["Clairo", "Lana Del Rey", "Mitski", "Phoebe Bridgers", "Beabadoobee", "Weyes Blood", "Arlo Parks", "Girl in Red"]
+            }
+          ]
+        },
+        {
+          "valor": "Latin Pop",
+          "hijos": [
+            {
+              "valor": "Balada Romántica",
+              "artistas": ["Luis Miguel", "Alejandro Sanz", "Ricardo Arjona", "Camila", "Sin Bandera", "Franco De Vita", "Juan Gabriel", "Carlos Rivera"]
+            },
+            {
+              "valor": "Pop Urbano",
+              "artistas": ["Sebastián Yatra", "Camilo", "Aitana", "Manuel Turizo", "Lali", "TINI", "Morat", "Reik"]
+            },
+            {
+              "valor": "Tropipop",
+              "artistas": ["Carlos Vives", "Fonseca", "Juan Luis Guerra", "Bacilos", "Jorge Villamizar", "Wilfran Castillo"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "RAÍZ, TRADICIONAL Y OTROS",
+      "hijos": [
+        {
+          "valor": "Jazz y Blues",
+          "hijos": [
+            {
+              "valor": "Smooth Jazz",
+              "artistas": ["Kenny G", "George Benson", "Dave Koz", "Boney James", "Chris Botti", "Grover Washington Jr.", "Richard Elliot"]
+            },
+            {
+              "valor": "Bebop",
+              "artistas": ["Charlie Parker", "Dizzy Gillespie", "Thelonious Monk", "Bud Powell", "Max Roach", "Clifford Brown", "Art Blakey"]
+            },
+            {
+              "valor": "Delta Blues",
+              "artistas": ["Robert Johnson", "B.B. King", "Muddy Waters", "Howlin' Wolf", "John Lee Hooker", "Elmore James", "Buddy Guy", "T-Bone Walker"]
+            },
+            {
+              "valor": "Fusion",
+              "artistas": ["Miles Davis", "Herbie Hancock", "Weather Report", "Chick Corea", "Pat Metheny", "Return to Forever", "Mahavishnu Orchestra"]
+            }
+          ]
+        },
+        {
+          "valor": "Música Tropical",
+          "hijos": [
+            {
+              "valor": "Salsa Clásica / Brava",
+              "artistas": ["Héctor Lavoe", "Willie Colón", "Celia Cruz", "Rubén Blades", "Ismael Rivera", "Cheo Feliciano", "Ray Barretto", "Frankie Ruiz"]
+            },
+            {
+              "valor": "Bachata",
+              "artistas": ["Romeo Santos", "Prince Royce", "Juan Luis Guerra", "Aventura", "Zacarías Ferreira", "Anthony Santos", "Frank Reyes", "Toby Love"]
+            },
+            {
+              "valor": "Cumbia",
+              "artistas": ["Los Ángeles Azules", "Grupo Niche", "Celso Piña", "Sonora Dinamita", "Los Wawancó", "Totó la Momposina", "Aniceto Molina"]
+            },
+            {
+              "valor": "Merengue",
+              "artistas": ["Juan Luis Guerra", "Wilfrido Vargas", "Olga Tañón", "Sergio Vargas", "Eddy Herrera", "Johnny Ventura", "Las Chicas del Can"]
+            }
+          ]
+        },
+        {
+          "valor": "Reggae / Ska",
+          "hijos": [
+            {
+              "valor": "Roots Reggae",
+              "artistas": ["Bob Marley", "Peter Tosh", "Burning Spear", "Jimmy Cliff", "Gregory Isaacs", "Dennis Brown", "Black Uhuru"]
+            },
+            {
+              "valor": "Dub",
+              "artistas": ["Lee \"Scratch\" Perry", "King Tubby", "Scientist", "Mad Professor", "Augustus Pablo", "Jah Shaka"]
+            },
+            {
+              "valor": "Dancehall",
+              "artistas": ["Sean Paul", "Shaggy", "Vybz Kartel", "Buju Banton", "Beenie Man", "Pop Smoke (influencia)", "Bounty Killer", "Koffee"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "MÚSICA CLÁSICA Y SOUNDTRACKS",
+      "hijos": [
+        {
+          "valor": "Clásica Tradicional",
+          "hijos": [
+            {
+              "valor": "Música Barroca",
+              "artistas": ["Johann Sebastian Bach", "Antonio Vivaldi", "George Frideric Handel", "Claudio Monteverdi", "Henry Purcell", "Arcangelo Corelli"]
+            },
+            {
+              "valor": "Clásica Romántica",
+              "artistas": ["Ludwig van Beethoven", "Frédéric Chopin", "Pyotr Ilyich Tchaikovsky", "Franz Liszt", "Johannes Brahms", "Richard Wagner", "Sergei Rachmaninoff"]
+            },
+            {
+              "valor": "Ópera / Coral",
+              "artistas": ["Luciano Pavarotti", "Maria Callas", "Wolfgang Amadeus Mozart", "Plácido Domingo", "Andrea Bocelli", "Giuseppe Verdi", "Giacomo Puccini"]
+            }
+          ]
+        },
+        {
+          "valor": "Bandas Sonoras",
+          "hijos": [
+            {
+              "valor": "Música de Cine",
+              "artistas": ["Hans Zimmer", "John Williams", "Ennio Morricone", "Ramin Djawadi", "Alan Silvestri", "Howard Shore", "Ludwig Göransson", "Trent Reznor"]
+            },
+            {
+              "valor": "Videojuegos (Game OST)",
+              "artistas": ["Nobuo Uematsu", "Koji Kondo", "Gustavo Santaolalla", "Martin O'Donnell", "Akira Yamaoka", "Darren Korb", "Jeremy Soule"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "COUNTRY, AMERICANA Y FOLK",
+      "hijos": [
+        {
+          "valor": "Country",
+          "hijos": [
+            {
+              "valor": "Traditional Country",
+              "artistas": ["Johnny Cash", "Willie Nelson", "Dolly Parton", "Hank Williams", "Merle Haggard", "Loretta Lynn", "Waylon Jennings", "George Strait"]
+            },
+            {
+              "valor": "Modern Country",
+              "artistas": ["Chris Stapleton", "Luke Combs", "Morgan Wallen", "Eric Church", "Kacey Musgraves", "Miranda Lambert", "Zach Bryan"]
+            },
+            {
+              "valor": "Country Pop",
+              "artistas": ["Shania Twain", "Keith Urban", "Tim McGraw", "Faith Hill", "Carrie Underwood", "Luke Bryan", "Thomas Rhett"]
+            }
+          ]
+        },
+        {
+          "valor": "Folk / Americana",
+          "hijos": [
+            {
+              "valor": "Indie Folk",
+              "artistas": ["Bon Iver", "Fleet Foxes", "The Lumineers", "Mumford & Sons", "Iron & Wine", "Sufjan Stevens", "Noah Kahan", "Father John Misty"]
+            },
+            {
+              "valor": "Bluegrass",
+              "artistas": ["Alison Krauss", "Bill Monroe", "The Steeldrivers", "Chris Thile", "Punch Brothers", "Earl Scruggs", "Billy Strings", "The Dead South"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "EXPERIMENTAL, AMBIENT Y LO-FI",
+      "hijos": [
+        {
+          "valor": "Ambient / New Age",
+          "hijos": [
+            {
+              "valor": "Drone",
+              "artistas": ["Brian Eno", "Stars of the Lid", "Tim Hecker", "William Basinski", "Ben Frost", "Biosphere", "Eliane Radigue"]
+            },
+            {
+              "valor": "Música de Meditación",
+              "artistas": ["Max Richter", "Ólafur Arnalds", "Marconi Union", "Ludovico Einaudi", "Nils Frahm", "Harold Budd", "Ryuichi Sakamoto"]
+            }
+          ]
+        },
+        {
+          "valor": "Lo-Fi / Chill",
+          "hijos": [
+            {
+              "valor": "Lo-Fi Beats",
+              "artistas": ["J Dilla", "Nujabes", "Lofi Girl", "ChilledCow", "Knxwledge", "Tomppabeats", "Shiloh Dynasty", "Idealism"]
+            },
+            {
+              "valor": "Vaporwave",
+              "artistas": ["Macintosh Plus", "Saint Pepsi", "Blank Banshee", "2 8 1 4", "Telepath", "Vaperror", "ESPRIT 空想"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
